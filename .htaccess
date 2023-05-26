@@ -1,0 +1,32 @@
+RewriteEngine On
+
+
+RewriteRule ^decorative-tiles$ decorative-tiles.php
+RewriteRule ^border-tiles$ border-tiles.php
+RewriteRule ^gold-silver-highliters$ gold-silver-highliters.php
+
+RewriteRule ^Quartz-sink$ Quartz-sink.php
+RewriteRule ^slab-tiles$ slab-tiles.php
+RewriteRule ^coming-soon$ coming-soon.php
+RewriteRule ^gvt-poster$ gvt-poster.php
+RewriteRule ^3d_poster$ 3d_poster.php
+RewriteRule ^daimond_poster$ daimond_poster.php
+RewriteRule ^digital_poster$ digital_poster.php
+RewriteRule ^murti-tiles$ murti-tiles.php
+RewriteRule ^glossy-poster$ glossy-poster.php
+RewriteRule ^chemical_poster$ chemical_poster.php
+RewriteRule ^third_fire$ third_fire.php
+RewriteRule ^gvt-border$ gvt-border.php
+RewriteRule ^golden-silver-border$ golden-silver-border.php
+RewriteRule ^digital-border$ digital-border.php
+RewriteRule ^glass-border$ glass-border.php
+RewriteRule ^steel-border$ steel-border.php
+RewriteRule ^step-riser$ step-riser.php
+RewriteRule ^imported-pencile$ imported-pencile.php
+RewriteRule ^sink$ sink.php
+RewriteRule ^vanity$ vanity.php
+
+
+
+
+
